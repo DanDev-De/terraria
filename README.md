@@ -1,5 +1,7 @@
 # Terraria [![microbadger](https://images.microbadger.com/badges/image/ryshe/terraria.svg)](https://microbadger.com/images/ryshe/terraria "Get your own image badge on microbadger.com")
 
+**[UPDATE]** Terraria 1.4.1.1 released
+
 **[UPDATE]** I know a lot of people are excited for Terraria v1.4 Journey's End!  This source code is built around the pre-release
 of [TShock][TShock].  Will continue to update as new releases come out.
 
